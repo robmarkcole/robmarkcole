@@ -6,6 +6,7 @@ My background is optical physics, and I have a PhD from the [NanoPhotonics group
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/robmarkcole?label=Follow)](https://twitter.com/robmarkcole)
 [![Linkedin: robmarkcole](https://img.shields.io/badge/-Robin%20Cole-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robmarkcole/)](https://www.linkedin.com/in/robmarkcole/)
+[![Kaggle Badge](https://img.shields.io/badge/-artgor-teal?style=flat&logo=kaggle&logoColor=deepblue&link=https://www.kaggle.com/robmarkcole)](https://www.kaggle.com/robmarkcole)
 ![Profile views](https://gpvc.arturio.dev/robmarkcole)
 
 * [Google scholar profile](https://scholar.google.com/citations?user=oHe5ozwAAAAJ&hl=en)
