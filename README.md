@@ -4,5 +4,6 @@ I hold a PhD in physics from the University of Cambridge and have worked in a nu
 
 - 🐦 Connect with me on [Twitter](https://twitter.com/robmarkcole) and [LinkedIn](https://www.linkedin.com/in/robmarkcole/)
 - 👥 Join the [satellite-image-deep-learning group on LinkedIn](https://www.linkedin.com/groups/12698393/)
+- 📧 Subscribe to the [satellite-image-deep-learning newsletter](https://robmarkcole.substack.com/)
 - 💬 [Book a 1:1 with me](https://calendly.com/robmarkcole/)
 - ⭐️ [Become a sponsor on GitHub](https://github.com/sponsors/robmarkcole)
