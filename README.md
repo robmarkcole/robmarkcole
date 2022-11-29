@@ -7,3 +7,5 @@ I hold a PhD in physics from the University of Cambridge and have worked in a nu
 ## 🖥️ Checkout [satellite-image-deep-learning.com](https://www.satellite-image-deep-learning.com/)
 
 ## 👥 View my [consulting service](https://robmarkcole.com/consulting.html)
+
+## 💬 [Book a 1:1 with me](https://calendly.com/robmarkcole/)
