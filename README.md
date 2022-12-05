@@ -9,3 +9,5 @@ Full stack data scientist with Cambridge PhD. I have worked in a range of resear
 ## 👥 View my [consulting service](https://robmarkcole.com/consulting.html)
 
 ## 💬 [Book a 1:1 with me](https://calendly.com/robmarkcole/)
+
+<img src="https://github-readme-stats.vercel.app/api?username=robmarkcole&&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97">
