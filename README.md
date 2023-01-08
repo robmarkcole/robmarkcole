@@ -6,6 +6,4 @@ Full stack data scientist tackling the worlds toughest challenges with AI & ML a
 
 ## 🐦 Connect with me on [Twitter](https://twitter.com/robmarkcole) and [LinkedIn](https://www.linkedin.com/in/robmarkcole/)
 
-## 💬 [Want to book a 1:1 with me?](https://calendly.com/robmarkcole)
-
-<img src="https://github-readme-stats.vercel.app/api?username=robmarkcole&&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97">
+## 💬 [Book a 1:1 with me](https://calendly.com/robmarkcole)
