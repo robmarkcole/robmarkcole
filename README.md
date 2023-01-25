@@ -6,4 +6,4 @@ Full stack data scientist tackling the worlds toughest challenges with AI & ML a
 
 ## 🐦 Connect with me on [Twitter](https://twitter.com/robmarkcole) and [LinkedIn](https://www.linkedin.com/in/robmarkcole/)
 
-## 🎖️ [Sponsor me on Github](https://github.com/sponsors/robmarkcole)
+## 🎖️ [Sponsor my work on Github](https://github.com/sponsors/robmarkcole)
