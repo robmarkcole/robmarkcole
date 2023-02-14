@@ -1,9 +1,12 @@
 ### Robin Cole
+Robin holds a PhD in physics from the University of Cambridge, and has significant R&D experience across academia and industry. He has spent the last ten years working in the space sector, applying his optical expertise in the design and manufacture of space-based telescopes, as well as specializing in Python-based image analysis and software development. Robin is an established expert in machine and deep learning techniques for processing satellite and aerial imagery, and is committed to education. He has created the [satellite-image-deep-learning.com](https://www.satellite-image-deep-learning.com/) website, newsletter, YouTube channel, and Github organization to share his knowledge and build a community.
 
-Full stack data scientist tackling the worlds toughest challenges with AI & ML applied to satellite & aerial imagery. I have worked in a range of research and engineering roles within academia & industry. I specialise in deep learning applied to satellite & aerial imagery and am the maintainer of the satellite-image-deep-learning repository and newsletter. I have a decade of experience with the Python programming language and have expertise in cloud computing on AWS. I have appeared on podcasts including the [ZenML](https://podcast.zenml.io/satellite-vision-robin-cole) and [Mapscaping](https://mapscaping.com/podcasts/thermal-imagery-from-space/) podcasts. To learn more about my work see the links below:
+<div align="center">
 
-## 🖥️ Checkout [satellite-image-deep-learning.com](https://www.satellite-image-deep-learning.com/)
+## 🖥️ [satellite-image-deep-learning.com](https://www.satellite-image-deep-learning.com/) 
 
-## 🐦 Connect with me on [Twitter](https://twitter.com/robmarkcole) and [LinkedIn](https://www.linkedin.com/in/robmarkcole/)
+## 🐦 Connect on [Twitter](https://twitter.com/robmarkcole) and [LinkedIn](https://www.linkedin.com/in/robmarkcole/)
 
-## 🎖️ [Sponsor my work on Github](https://github.com/sponsors/robmarkcole)
+## 🎖️ [Support my open source activity](https://github.com/sponsors/robmarkcole)
+
+  </div>
